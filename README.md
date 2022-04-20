@@ -7,7 +7,7 @@ If you were cooking a multicourse meal, would you prep one thing at a time? Put 
 
 ## Downloads
 - Visit [python.org](https://www.python.org/) and download Python for your operating system.
-- Visit [redis.io](https://redis.io/download) and download Redis for your operating system.
+- Visit [redis.io](https://redis.io/download) and download Redis for your operating system. I will be installing [redis](https://redis.io/docs/getting-started/installation/install-redis-on-windows/) for WSL2
 
 ## Setting up a virtual environment
 
